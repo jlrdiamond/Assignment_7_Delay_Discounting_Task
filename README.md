@@ -1,4 +1,4 @@
-# Lexical-decision-task
+# Delay_Discounting_task
 
 This assignment has two different Python scripts in it.
 
